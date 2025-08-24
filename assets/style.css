@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #111;
+  color: #fff;
+  text-align: center;
+}
+header {
+  background: #222;
+  padding: 2rem;
+}
+h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+section {
+  padding: 2rem;
+}
+a {
+  color: #ff6600;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+img {
+  max-width: 300px;
+  margin: 10px;
+  border-radius: 8px;
+}
