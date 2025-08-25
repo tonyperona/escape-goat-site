@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Upcoming Shows"
+    url: /shows/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
