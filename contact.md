@@ -1,7 +1,9 @@
 ---
 layout: single
-title: "About"
+title: "Contact"
 ---
 
-We’re **Escape Goat**, a Naperville-based cover band mixing classic rock with modern hits.  
-We play bars, festivals, private events — and we bring the energy every time.
+📧 Email: [escapegoatband@gmail.com](mailto:escapegoatband@gmail.com)  
+📱 Instagram: [@escapegoatband](https://instagram.com/escapegoatband)  
+📘 Facebook: [Escape Goat](https://facebook.com/escapegoatband)  
+▶️ YouTube: [Escape Goat Channel](https://youtube.com/@escapegoatband)
